@@ -1,2 +1,3 @@
-# TASK-1__CALCULATOR
-Created with CodeSandbox
+# Simple_Calculator
+
+Calculator created successfully
