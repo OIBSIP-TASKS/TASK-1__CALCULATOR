@@ -1,3 +1,3 @@
-# Simple_Calculator
+OASIS INFOBYTE TAASK 1 / CALCULATOR
 
-Calculator created successfully
+
